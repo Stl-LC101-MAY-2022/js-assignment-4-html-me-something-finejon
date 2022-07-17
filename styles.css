@@ -8,7 +8,8 @@
 body {
 	width: 100%;
 	max-width: 1024px;
-	margin: 8px auto;
+	margin: 8px;
+    margin: auto;
     text-align: center;
     display: block;
 	background-color: #000000;
