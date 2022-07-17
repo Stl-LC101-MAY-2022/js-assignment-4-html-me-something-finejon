@@ -6,6 +6,10 @@
 .funParagraph {
     color: green;
 }
+#testP {
+    color:green;
+}
+
 body {
 	width: 100%;
 	max-width: 1024px;
