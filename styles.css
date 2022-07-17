@@ -1,1 +1,62 @@
 /* Write your CSS here! */
+#mainHeading {
+    color: red;
+    
+  }
+.funParagraph {
+    color: green;
+}
+#testP {
+    color:green;
+}
+
+body {
+	width: 100%;
+	max-width: 1024px;
+	margin: 8px;
+    text-align: center;
+    display: block;
+	background-color: #000000;
+    background-image: 
+        url(images/boosterRBot.jpg),
+        url(images/boosterRH2.jpg);
+    background-position: 
+        67% 100%,
+        67% 0%;
+    background-repeat:
+        no-repeat;
+ 
+	font-size:80%;
+}
+
+header,
+main,
+footer {
+	background-color: chocolate;
+	font-size: 1.6em;
+}
+header {
+	padding: 1.5em 0;
+}
+
+  h2 {
+    text-align: center;
+  }
+  td img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+table.centertable {
+    margin-left:auto; 
+    margin-right:auto;
+  }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
+  
